@@ -1,0 +1,9 @@
+{
+    "name": "minhle_3107/thithu_02",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
